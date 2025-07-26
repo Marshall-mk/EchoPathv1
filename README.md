@@ -104,7 +104,7 @@ python scripts/6video_to_jpg.py \
 <!-- <details open id="models">
 <summary style="font-size: 1.5em; font-weight: bold;">The models<hr></summary> -->
 
-![Models](assets/framework.png)
+![Models](assets/framed.png)
 
 *Our pipeline, using our models: LIDM, Re-Identification (Privacy), LVDM and VAE*
 
